@@ -2,7 +2,7 @@
     font-style: italic;
 }
 
-h2 ~ p {
+h2 + p {
     color: red;
 }
 
