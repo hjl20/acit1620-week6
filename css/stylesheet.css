@@ -1,5 +1,11 @@
 
+img {
+    float: left;
+}
 
+.below {
+    clear: both;
+}
 
 li a:link {
     color: green;
