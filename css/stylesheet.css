@@ -1,4 +1,14 @@
+.target {
+    width: 50px;
+    height: 50px;
+    background-color: forestgreen;
+}
 
+.container {
+    border: 2px gray solid;
+}
+
+/* 
 img {
     float: left;
 }
@@ -41,4 +51,4 @@ h2 + p {
 ul.list > li {
     list-style-type: none;
     border-bottom: 1px solid grey;
-}
+} */
